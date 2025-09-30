@@ -34,8 +34,6 @@ More info about dataset can be found here:
 
 <img src="data_model.jpeg">
 
-## Complete Video Tutorial
-Video Link - https://youtu.be/WpQECq5Hx9g
 
 ## Quickstart
 
