@@ -1,0 +1,8 @@
+default:
+  GOOGLE_SERVICE_ACC_KEY_FILEPATH: "path/to/service_account.json"  # Do not commit the real file
+  GOOGLE_LOCATION: "US"
+  GOOGLE_PROJECT_ID: "your-gcp-project-id"
+  GOOGLE_BIGQUERY_DATASET: "uber_data_engineering_yt"
+
+# Copy this file to io_config.yaml and fill in real values locally.
+# Keep io_config.yaml out of git (see .gitignore).

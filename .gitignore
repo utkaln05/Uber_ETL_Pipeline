@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+logs/
+*.log
+
+# Mage
+mage_data/
+.traces/
+
+# Secrets & config
+*.env
+io_config.yaml
+
+# Data (keep only small samples)
+/data/*
+!data/README.md
+!data/*.sample.*
+
+# IDE
+.vscode/
+.idea/
+
+# Images generated
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
